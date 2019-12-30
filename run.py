@@ -9,8 +9,8 @@ caps = {
     "platformName": "Android",
     "platformVersion": "9",
     "deviceName": "Android Emulator",
-    "appActivity": "com.lemon.lemonban.activity.MainActivity",
-    "appPackage": "com.lemon.lemonban",
+    "appActivity": "com.zhonglian.assetsvluation.view.activity.SplashActivity",
+    "appPackage": "com.zhonglian.assetsvluation",
     # "noReset": "true",
 }
 
